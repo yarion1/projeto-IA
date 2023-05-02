@@ -6,6 +6,9 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 2020110808  |  Pablo Henrique Silva Ribeiro |
+| 2020110942  |  Arthur Fernandes Ferreira Reis |
+| 2020111104  |  Luana Lorena de Matos Tavares |
+| 2020110552  |  Mateus Araujo Dias |
 
 ## Sobre 
 
