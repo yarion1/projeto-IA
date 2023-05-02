@@ -1,0 +1,122 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap ;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.App > h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 2vw;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.family {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+.pessoaViva {
+  display: block;
+  width: 100px;
+  height: 100px;
+  background: #399748;
+  border-radius: 50%;
+  font-size: 0.5vw;
+  margin: 10px 50px;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.25);
+  color: white;
+}
+
+.pessoaViva:hover {
+  box-shadow: 1px 1px 10px #296e35,
+              2px 2px 10px #296e35,
+              3px 3px 10px #296e35;
+  transition-duration: .5s;
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.infoPessoa {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+#statusTitle {
+  margin-bottom: 100px;
+  font-weight: bolder;
+}
+
+#resetButton {
+  margin-top: 50px;
+  border: 0;
+  width: 150px;
+  height: 50px;
+  font-size: 1vw;
+  background: #ebeba2;
+  color: #505050;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+}
+
+#resetButton:hover,
+#resetButton:active{
+  -webkit-transform: scale(1.1);
+  -ms-transform: scale(1.1);
+  transform: scale(1.1);
+  opacity: 0.8;
+  transition-duration: .4s;
+}
+
+#spaceButton {
+  display: block;
+  height: 50px;
+  margin-top: 50px;
+}
+
+.titles {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+  padding: 0;
+}
+
+.titles p {
+  width: 50%;
+  padding: 0 50px;
+  text-align: justify;
+  font-weight: bold;
+  color: #505050;
+}
+
+.titles h1 {
+  width: 50%;
+  text-align: center;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
+}
