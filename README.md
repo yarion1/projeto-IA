@@ -1,13 +1,11 @@
 # Justiceiro
 
-**Número da Lista**: 10<br>
-**Conteúdo da Disciplina**: Grafos<br>
+**Conteúdo da Disciplina**: Inteligência artificial<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 15/0120371  |  Bruno Oliveira Dantas |
-| 17/0031438  |  Dâmaso Júnio Pereira Brasileo |
+| 2020110808  |  Pablo Henrique Silva Ribeiro |
 
 ## Sobre 
 
@@ -29,9 +27,9 @@ O **Justiceiro** é um joguinho referente à um viajante no tempo, que deseja ma
 
 Para instalação do projeto, é necessário executar os seguintes comandos:
 ```
-git clone https://github.com/projeto-de-algoritmos/Grafos1-Justiceiro
+git clone https://github.com/projeto-de-algoritmos/projeto-IA
 
-cd Grafos1-Justiceiro
+cd projeto-IA
 
 yarn install
 ```
@@ -40,7 +38,7 @@ yarn install
 
 Para execução do projeto é necessário, após a instalação:
 ```
-cd Grafos1-Justiceiro
+cd projeto-IA
 
 yarn start
 ```
