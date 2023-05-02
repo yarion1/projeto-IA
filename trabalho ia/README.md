@@ -29,9 +29,9 @@ O **Justiceiro** é um joguinho referente à um viajante no tempo, que deseja ma
 
 Para instalação do projeto, é necessário executar os seguintes comandos:
 ```
-git clone https://github.com/projeto-de-algoritmos/Grafos1-Justiceiro
+git clone https://github.com/projeto-de-algoritmos/trabalho-ia
 
-cd Grafos1-Justiceiro
+cd trabalho-ia
 
 yarn install
 ```
@@ -40,7 +40,7 @@ yarn install
 
 Para execução do projeto é necessário, após a instalação:
 ```
-cd Grafos1-Justiceiro
+cd trabalho-ia
 
 yarn start
 ```
