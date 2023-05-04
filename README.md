@@ -10,6 +10,12 @@
 | 2020111104  |  Luana Lorena de Matos Tavares |
 | 2020110552  |  Mateus Araujo Dias |
 
+## Links
+|Slide| Relatório|
+| -- | -- |
+| https://www.canva.com/design/DAFh5r6z6nc/84c3GDqs0qNZBjKbSxAjOA/edit?utm_content=DAFh5r6z6nc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton| https://docs.google.com/document/d/13iW0fDBYjn4qCqf7T7hNZKObaElgdveLHoL9qoCBkCw/edit?usp=sharing|
+
+
 ## Sobre 
 
 O **Justiceiro** é um joguinho referente à um viajante no tempo, que deseja matar um dos maiores genocidas que já existiu. Pra isso ele quer matar esse assassino, como ele não sabe onde (ou quando?) esse genocida está, então ele decide procurar pela sua família e matar algum dos seus familiares, antes do genocida ter nascido. Mas pode acontecer do **justiceiro** matar uma familia de inocentes, e então ele se torna o **genocida**.
